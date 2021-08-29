@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_btn_Start">Start</string>
+    <string name="app_status">Blocked | Enqueued | Running | Succeeded</string>
+    <string name="app_btn_setPeriodicRequest">PeriodicRequest</string>
+    <string name="app_btn_onetimeRequest">One Time Request</string>
+</resources>
